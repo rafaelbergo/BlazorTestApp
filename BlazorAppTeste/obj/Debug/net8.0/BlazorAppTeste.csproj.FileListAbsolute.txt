@@ -56,3 +56,4 @@ c:/Users/rafa1/Desktop/UTFPR/Estagio/blazor/teste/BlazorAppTeste/obj/Debug/net8.
 /hdd/UTFPR/Estagio/blazor/teste/BlazorAppTeste/obj/Debug/net8.0/BlazorAppTeste.pdb
 /hdd/UTFPR/Estagio/blazor/teste/BlazorAppTeste/obj/Debug/net8.0/BlazorAppTeste.genruntimeconfig.cache
 /hdd/UTFPR/Estagio/blazor/teste/BlazorAppTeste/obj/Debug/net8.0/ref/BlazorAppTeste.dll
+/hdd/UTFPR/Estagio/blazor/teste/BlazorAppTeste/obj/Debug/net8.0/BlazorAppTeste.sourcelink.json
